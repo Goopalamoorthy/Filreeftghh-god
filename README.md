@@ -60,3 +60,5 @@
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `AUTH_CHANNEL`: To add force subscriber
 * Check [info.py](https://github.com/Hansaka-Anuhas/AutoFilterBot/blob/main/info.py) for more optional variables
+
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Vinarasan55/SKY-FILTER-HD&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
