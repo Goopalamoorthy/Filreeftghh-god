@@ -61,4 +61,4 @@
 * `AUTH_CHANNEL`: To add force subscriber
 * Check [info.py](https://github.com/Hansaka-Anuhas/AutoFilterBot/blob/main/info.py) for more optional variables
 
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Vinarasan55/SKY-FILTER-HD&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Goopalamoorthy/Filreeftghh-god&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
